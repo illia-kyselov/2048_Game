@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+### 2048 Game
+
+This is the 2048 game - an addictive puzzle where you must combine tiles with the same numbers to get the number 2048. 
+
+Use the arrow keys on your keyboard to move the tiles left, right, up, or down.
+
+I used: JS, some HTML & SCSS
+
+1. Replace `<your_account>` with your Github username in the link
+    - [DEMO LINK](https://<your_account>.github.io/js_2048_game/)
