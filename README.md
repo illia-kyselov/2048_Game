@@ -6,5 +6,4 @@ Use the arrow keys on your keyboard to move the tiles left, right, up, or down.
 
 Used: JS, some HTML & SCSS
 
-1. Replace `<your_account>` with your Github username in the link
-    - [DEMO LINK](https://illia-kyselov.github.io/2048_Game/)
+- [DEMO LINK](https://illia-kyselov.github.io/2048_Game/)
